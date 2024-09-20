@@ -4,11 +4,9 @@ This is a Web3-based trading platform built with Wagmi, Vite, and Tailwind CSS. 
 
 ## Tech Stack
 
-- **Frontend Framework**: React
 - **Build Tool**: Vite
 - **Web3 Integration**: Wagmi
 - **Styling**: Tailwind CSS
-- **Smart Contract Interaction**: Ethers.js
 
 ## Key Features
 
@@ -45,7 +43,7 @@ This is a Web3-based trading platform built with Wagmi, Vite, and Tailwind CSS. 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Copariot-Labs/picwe-web.git
    ```
 
 2. Install dependencies:
