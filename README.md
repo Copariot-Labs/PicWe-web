@@ -48,7 +48,7 @@ This is a Web3-based trading platform built with Wagmi, Vite, and Tailwind CSS. 
 
 2. Install dependencies:
    ```
-   cd your-repo-name
+   cd picwe-web
    npm install
    ```
 
